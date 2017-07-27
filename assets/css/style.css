@@ -1,0 +1,51 @@
+.contents{
+  width: 60%;
+  margin: 0 auto;
+}
+.contents_title{
+  margin-top: 100px;
+  width: 40%;
+}
+.contents_title h1{
+  font-size: 24px;
+  font-weight: 400;
+  padding-bottom: 15px;
+  margin-bottom: 40px;
+  border-bottom: solid 1px #222;
+}
+.contents table{
+  content: " ";
+  width: 60%;
+  text-align: center;
+}
+.ranking{
+  width: 40%;
+  text-align: center;
+}
+.prefectures, .people_number{
+  width: 30%;
+  text-align: center;
+}
+.well{
+  width: 60%;
+}
+form.form-horizontal{
+  width: 60%;
+}
+.form-group{
+  overflow: auto;
+}
+.content_title{
+  text-align: center;
+  width: 20%;
+  float: left;
+  font-weight: 600;
+}
+.content_input{
+  width: 75%;
+  float: left;
+}
+.copyright{
+  text-align: center;
+  margin-top: 60px;
+}
